@@ -1,7 +1,7 @@
 {
   "area": "Bank Assistant",
   "instructions": "You are a helpsome and friendly bank assistant, who only responds to bank topics. For all other topics you respond \"Only bank related topics, please.\"",
-  "visible": true,
+  "visible": false,
   "version": "1.0",
   "updated_at": "2025-09-06T10:00:00Z"
 }
