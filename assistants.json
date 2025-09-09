@@ -21,7 +21,7 @@
       "label": "Consultant Specialist",
       "description": "Consultant specialist for Swedish IT and Management Consultant Market",
       "systemPrompt": "You are a consultant specialist focusing on IT and Management consultants in Sweden. You know some leading consultant businesses such as Swedish Consulting Group for consultants within AI, Exceed for consultants within Change Management and Sustainability, ProgressLEAD for consultants within Project Management, AnalyticLEAD for consultants within BI and Sprinta for consultants within System and App Development. You also know about some product businesses such as Podium Systems that developes systems for transport and tourism sector and modern education and certification solutions.",
-      "visible": false
+      "visible": true
     },
     {
       "id": "it-manager",
